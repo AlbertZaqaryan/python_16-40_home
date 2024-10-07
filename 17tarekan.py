@@ -1,0 +1,1 @@
+print('Es Davon em 17 tarekan')
