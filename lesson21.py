@@ -15,5 +15,3 @@
 #     elements[int(i[0])] = i[1:]
 # print(elements)
 # print(elements.get(number, 'Chka'))
-
-print(10)
